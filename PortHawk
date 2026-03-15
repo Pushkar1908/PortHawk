@@ -43,7 +43,7 @@ def get_arg():
 def porthawk():
 	cprint(figlet_format('PortHawk', font='standard'),'red', attrs=['bold'])
 
-	print(style.GREEN+style.BOLD+style.UNDERLINE+"\r\t\t\t\tBY - Vedant,Hemant,Rudraksh & Bhushan\n"+style.RESET+style.BOLD+style.WHITE)
+	print(style.GREEN+style.BOLD+style.UNDERLINE+"\r\t\t\t\tBY - Pushkar Chaudhari, Vaibhav Thakre, Tushar Chaudhari & Tanya Bhaute\n"+style.RESET+style.BOLD+style.WHITE)
 
 arg = get_arg()
 host = arg.host
