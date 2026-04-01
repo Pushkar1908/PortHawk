@@ -7,7 +7,7 @@ And it is lot faster than conventional tools like NMAP
 
 # Installation
 
-sudo git clone https://github.com/vedantjawanjar/PortHawk.git
+sudo git clone (https://github.com/Pushkar1908/PortHawk.git)
 
 cd PortHawk/
 
